@@ -1,1 +1,1 @@
-f0f0 f0f0  f0f0 f0f0
+f0f0 f0f0 as conversões do .asm f0f0 f0f0
