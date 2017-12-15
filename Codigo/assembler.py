@@ -1,5 +1,6 @@
 # lib para trabalhar com argumentos
 import sys
+from .header import Header
 
 while True:
 	
@@ -24,6 +25,8 @@ while True:
 			linhasText = []
 			estouEmData = False
 			estouEmText = False
+
+			header = Header()
 
 			# Lê o código uma vez
 			for linha in codigoCompleto:
